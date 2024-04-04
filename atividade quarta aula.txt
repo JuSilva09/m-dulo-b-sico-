@@ -1,0 +1,4 @@
+criar um arquivo de texto 
+salvar na pasta como readme.me 
+ir no visual e abrir a pasta 
+abrir terminal, adicionar o git commit 
